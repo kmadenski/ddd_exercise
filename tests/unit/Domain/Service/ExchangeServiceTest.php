@@ -1,4 +1,7 @@
 <?php
+
+namespace Test;
+
 use PHPUnit\Framework\TestCase;
 use Domain\ValueObject\Currency;
 use Domain\ValueObject\Money;

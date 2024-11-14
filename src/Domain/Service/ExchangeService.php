@@ -1,4 +1,5 @@
 <?php
+
 // src/Domain/Service/ExchangeService.php
 namespace Domain\Service;
 

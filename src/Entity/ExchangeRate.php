@@ -1,4 +1,5 @@
 <?php
+
 namespace Domain\Entity;
 
 use Domain\ValueObject\Currency;

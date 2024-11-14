@@ -1,5 +1,4 @@
 <?php
-// src/Domain/ValueObject/CurrencyEnum.php
 
 namespace Domain\ValueObject;
 

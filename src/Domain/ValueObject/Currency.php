@@ -1,4 +1,5 @@
 <?php
+
 namespace Domain\ValueObject;
 
 use Domain\Exception\InvalidCurrencyException;
