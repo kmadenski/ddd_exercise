@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+    # No ports exposed since it's a CLI application
+    # Start the container in detached mode to keep it running
+    # Command is defined in Dockerfile (tail -f /dev/null)
